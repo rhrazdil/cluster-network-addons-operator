@@ -26,3 +26,6 @@ goimports-check
 vet
 whitespace
 whitespace-check
+
+# IDE files
+.idea/
